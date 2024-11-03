@@ -1,16 +1,16 @@
 [submodule "src/runtime_src/core/pcie/driver/linux/xocl/lib/libqdma"]
 	path = src/runtime_src/core/pcie/driver/linux/xocl/lib/libqdma
-	url = https://github.com/Xilinx/dma_ip_drivers.git
+	url = git@github.com:Xilinx/dma_ip_drivers.git
 [submodule "src/runtime_src/core/common/elf"]
 	path = src/runtime_src/core/common/elf
-	url = https://github.com/serge1/ELFIO.git
+	url = git@github.com:serge1/ELFIO.git
 [submodule "src/runtime_src/core/common/gsl"]
 	path = src/runtime_src/core/common/gsl
-	url = https://github.com/microsoft/GSL.git
+	url = git@github.com:microsoft/GSL.git
 [submodule "src/runtime_src/core/common/aiebu"]
 	path = src/runtime_src/core/common/aiebu
-	url = https://github.com/Xilinx/aiebu.git
+	url = git@github.com:Xilinx/aiebu.git
 [submodule "src/runtime_src/aie-rt"]
 	path = src/runtime_src/aie-rt
-	url = https://github.com/Xilinx/aie-rt.git
+	url = git@github.com:Xilinx/aie-rt.git
 	branch = release/main_aig
